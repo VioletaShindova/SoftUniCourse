@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\NumberBetween100And200\bin\Debug\NumberBetween100And200.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\NumberBetween100And200\bin\Debug\NumberBetween100And200.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\NumberBetween100And200\bin\Debug\NumberBetween100And200.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\NumberBetween100And200\obj\Debug\NumberBetween100And200.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\NumberBetween100And200\obj\Debug\NumberBetween100And200.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\NumberBetween100And200\obj\Debug\NumberBetween100And200.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\NumberBetween100And200\obj\Debug\NumberBetween100And200.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\NumberBetween100And200\obj\Debug\NumberBetween100And200.pdb
