@@ -30,6 +30,12 @@ namespace BiggestNumberInTheArrayAndClass
             this.ArraySize = lengthOfTheArray;
         }
 
+
+        //--------------------------------------------------------------
+        //needed copy constructor
+        //--------------------------------------------------------------
+
+
         /// <summary>
         /// This method is supposed to find the biggest number from the array.
         /// </summary>
@@ -45,12 +51,15 @@ namespace BiggestNumberInTheArrayAndClass
             //Array(array);
             OutputNumberFotTheArray();
 
-            int maxNumberFromTheArray = array[0];
+            int maxNumberFromTheArray = 0;
             for(int index = 0; index < this.arraySize; index++)
             {
-                if(maxNumberFromTheArray < this.array[index])
+                if (this.array[index] >= 0 && this.array[index] < 10)
                 {
-                    maxNumberFromTheArray = this.array[index];
+                    if (maxNumberFromTheArray < this.array[index])
+                    {
+                        maxNumberFromTheArray = this.array[index];
+                    }
                 }
             }    
             return maxNumberFromTheArray;
