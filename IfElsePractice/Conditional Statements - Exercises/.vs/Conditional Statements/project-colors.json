@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "cbb0f25b-6a35-4600-946f-92d604911ba0": {
+      "ProjectGuid": "cbb0f25b-6a35-4600-946f-92d604911ba0",
+      "DisplayName": "Sum Seconds",
+      "ColorIndex": 0
+    },
+    "072219b5-9521-411a-9d6a-d503d0373b38": {
+      "ProjectGuid": "072219b5-9521-411a-9d6a-d503d0373b38",
+      "DisplayName": "Bonus Score",
+      "ColorIndex": 1
+    },
+    "f2c992a3-d9a4-4679-9d09-dd54fb65ad42": {
+      "ProjectGuid": "f2c992a3-d9a4-4679-9d09-dd54fb65ad42",
+      "DisplayName": "Time + 15 Minutes",
+      "ColorIndex": 2
+    },
+    "bba458f4-06ea-4b8f-ba92-e9294557a511": {
+      "ProjectGuid": "bba458f4-06ea-4b8f-ba92-e9294557a511",
+      "DisplayName": "Toy Shop",
+      "ColorIndex": 3
+    },
+    "55a26283-1de9-4931-8aef-777039b89fc9": {
+      "ProjectGuid": "55a26283-1de9-4931-8aef-777039b89fc9",
+      "DisplayName": "Godzilla vs. Kong",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
