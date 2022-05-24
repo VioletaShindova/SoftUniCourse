@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Toy Shop\bin\Debug\Toy Shop.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Toy Shop\bin\Debug\Toy Shop.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Toy Shop\bin\Debug\Toy Shop.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Toy Shop\obj\Debug\Toy Shop.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Toy Shop\obj\Debug\Toy Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Toy Shop\obj\Debug\Toy Shop.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Toy Shop\obj\Debug\Toy Shop.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Toy Shop\obj\Debug\Toy Shop.pdb
