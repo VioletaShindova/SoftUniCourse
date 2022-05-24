@@ -10,8 +10,6 @@ namespace BiggestNumberInTheArrayAndClass
     {
         static void Main(string[] args)
         {
-            //added line
-
             Console.Write("Input length of the array: ");
             int lengthOfTheArray = int.Parse(Console.ReadLine());
 
@@ -21,7 +19,7 @@ namespace BiggestNumberInTheArrayAndClass
 
             Console.WriteLine();
 
-            Console.WriteLine($"The biggest number is {biggestNumber}");
+            Console.WriteLine($"The biggest single digit is {biggestNumber}");
         }
     }
 }
