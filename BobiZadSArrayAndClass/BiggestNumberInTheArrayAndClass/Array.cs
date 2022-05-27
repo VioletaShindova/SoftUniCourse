@@ -54,7 +54,7 @@ namespace BiggestNumberInTheArrayAndClass
             int maxNumberFromTheArray = 0;
             for(int index = 0; index < this.arraySize; index++)
             {
-                if (this.array[index] >= 0 && this.array[index] < 10)
+                if (this.array[index] >= -9 && this.array[index] < 10)
                 {
                     if (maxNumberFromTheArray < this.array[index])
                     {
