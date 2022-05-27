@@ -13,6 +13,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Toy Shop", "Toy Shop\Toy Sh
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Godzilla vs. Kong", "Godzilla vs. Kong\Godzilla vs. Kong.csproj", "{55A26283-1DE9-4931-8AEF-777039B89FC9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World Swimming Record", "World Swimming Record\World Swimming Record.csproj", "{CA2B04E8-BB84-4183-99E7-E29963472B24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping", "Shopping\Shopping.csproj", "{F7FE431D-898C-41DA-AF0A-269E3EE03B57}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +43,14 @@ Global
 		{55A26283-1DE9-4931-8AEF-777039B89FC9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{55A26283-1DE9-4931-8AEF-777039B89FC9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{55A26283-1DE9-4931-8AEF-777039B89FC9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{CA2B04E8-BB84-4183-99E7-E29963472B24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{CA2B04E8-BB84-4183-99E7-E29963472B24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{CA2B04E8-BB84-4183-99E7-E29963472B24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{CA2B04E8-BB84-4183-99E7-E29963472B24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F7FE431D-898C-41DA-AF0A-269E3EE03B57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F7FE431D-898C-41DA-AF0A-269E3EE03B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F7FE431D-898C-41DA-AF0A-269E3EE03B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F7FE431D-898C-41DA-AF0A-269E3EE03B57}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
