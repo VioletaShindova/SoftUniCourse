@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercises\World Swimming Record\bin\Debug\World Swimming Record.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercises\World Swimming Record\bin\Debug\World Swimming Record.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercises\World Swimming Record\bin\Debug\World Swimming Record.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercises\World Swimming Record\obj\Debug\World Swimming Record.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercises\World Swimming Record\obj\Debug\World Swimming Record.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercises\World Swimming Record\obj\Debug\World Swimming Record.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercises\World Swimming Record\obj\Debug\World Swimming Record.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercises\World Swimming Record\obj\Debug\World Swimming Record.pdb

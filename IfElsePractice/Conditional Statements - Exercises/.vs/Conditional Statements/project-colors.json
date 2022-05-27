@@ -25,7 +25,17 @@
       "ProjectGuid": "55a26283-1de9-4931-8aef-777039b89fc9",
       "DisplayName": "Godzilla vs. Kong",
       "ColorIndex": 4
+    },
+    "ca2b04e8-bb84-4183-99e7-e29963472b24": {
+      "ProjectGuid": "ca2b04e8-bb84-4183-99e7-e29963472b24",
+      "DisplayName": "World Swimming Record",
+      "ColorIndex": 5
+    },
+    "f7fe431d-898c-41da-af0a-269e3ee03b57": {
+      "ProjectGuid": "f7fe431d-898c-41da-af0a-269e3ee03b57",
+      "DisplayName": "Shopping",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 7
 }
