@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Time + 15 Minutes\bin\Debug\Time + 15 Minutes.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Time + 15 Minutes\obj\Debug\Time + 15 Minutes.pdb

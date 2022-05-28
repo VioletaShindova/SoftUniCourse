@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "s6IM6ABa2UF/Tw+GkNnqALX4g5WnhpccfqOmpfjdV+9IiLLvgTN6IQVqHzcZOn97yee+9hdgZQAQm/4jIrV+WQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viole\\Documents\\SoftUni\\Basics\\FoodDelivery\\FoodDelivery\\FoodDelivery.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

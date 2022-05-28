@@ -1,0 +1,16 @@
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\bin\Debug\net5.0\P01.HelloSoftUni.exe
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\bin\Debug\net5.0\P01.HelloSoftUni.deps.json
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\bin\Debug\net5.0\P01.HelloSoftUni.runtimeconfig.json
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\bin\Debug\net5.0\P01.HelloSoftUni.runtimeconfig.dev.json
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\bin\Debug\net5.0\P01.HelloSoftUni.dll
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\bin\Debug\net5.0\ref\P01.HelloSoftUni.dll
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\bin\Debug\net5.0\P01.HelloSoftUni.pdb
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\obj\Debug\net5.0\P01.HelloSoftUni.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\obj\Debug\net5.0\P01.HelloSoftUni.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\obj\Debug\net5.0\P01.HelloSoftUni.AssemblyInfoInputs.cache
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\obj\Debug\net5.0\P01.HelloSoftUni.AssemblyInfo.cs
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\obj\Debug\net5.0\P01.HelloSoftUni.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\obj\Debug\net5.0\P01.HelloSoftUni.dll
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\obj\Debug\net5.0\ref\P01.HelloSoftUni.dll
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\obj\Debug\net5.0\P01.HelloSoftUni.pdb
+C:\Users\viole\Documents\SoftUni\Basics\P01.HelloSoftUni\P01.HelloSoftUni\obj\Debug\net5.0\P01.HelloSoftUni.genruntimeconfig.cache
