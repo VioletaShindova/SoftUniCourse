@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Sum Seconds\bin\Debug\Sum Seconds.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\Conditional Statements\Sum Seconds\obj\Debug\Sum Seconds.pdb

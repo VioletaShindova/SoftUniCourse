@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "yvWhm6lzH1vl3rEnhxvD+hVwwk/As892A//zu1g91kqlZeUF9hHpPZft0BRxCJ/1RnYPDmEjKJf26lRizi4RFg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\viole\\Documents\\SoftUni\\Basics\\P01.HelloSoftUni\\P01.HelloSoftUni\\Painting.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\viole\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\5.0.13\\microsoft.netcore.app.host.win-x64.5.0.13.nupkg.sha512"
+  ],
+  "logs": []
+}

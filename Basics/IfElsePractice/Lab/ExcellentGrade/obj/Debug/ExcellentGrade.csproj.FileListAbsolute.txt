@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\ExcellentGrade\bin\Debug\ExcellentGrade.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\ExcellentGrade\bin\Debug\ExcellentGrade.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\ExcellentGrade\bin\Debug\ExcellentGrade.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\ExcellentGrade\obj\Debug\ExcellentGrade.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\ExcellentGrade\obj\Debug\ExcellentGrade.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\ExcellentGrade\obj\Debug\ExcellentGrade.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\ExcellentGrade\obj\Debug\ExcellentGrade.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\ExcellentGrade\obj\Debug\ExcellentGrade.pdb

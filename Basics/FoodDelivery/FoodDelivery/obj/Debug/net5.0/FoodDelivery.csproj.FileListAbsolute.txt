@@ -1,0 +1,16 @@
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\bin\Debug\net5.0\FoodDelivery.exe
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\bin\Debug\net5.0\FoodDelivery.deps.json
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\bin\Debug\net5.0\FoodDelivery.runtimeconfig.json
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\bin\Debug\net5.0\FoodDelivery.runtimeconfig.dev.json
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\bin\Debug\net5.0\FoodDelivery.dll
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\bin\Debug\net5.0\ref\FoodDelivery.dll
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\bin\Debug\net5.0\FoodDelivery.pdb
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\obj\Debug\net5.0\FoodDelivery.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\obj\Debug\net5.0\FoodDelivery.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\obj\Debug\net5.0\FoodDelivery.AssemblyInfoInputs.cache
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\obj\Debug\net5.0\FoodDelivery.AssemblyInfo.cs
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\obj\Debug\net5.0\FoodDelivery.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\obj\Debug\net5.0\FoodDelivery.dll
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\obj\Debug\net5.0\ref\FoodDelivery.dll
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\obj\Debug\net5.0\FoodDelivery.pdb
+C:\Users\viole\Documents\SoftUni\Basics\FoodDelivery\FoodDelivery\obj\Debug\net5.0\FoodDelivery.genruntimeconfig.cache

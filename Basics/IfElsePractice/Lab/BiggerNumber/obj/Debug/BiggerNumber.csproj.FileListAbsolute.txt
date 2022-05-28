@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\BiggerNumber\bin\Debug\BiggerNumber.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\BiggerNumber\bin\Debug\BiggerNumber.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\BiggerNumber\bin\Debug\BiggerNumber.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\BiggerNumber\obj\Debug\BiggerNumber.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\BiggerNumber\obj\Debug\BiggerNumber.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\BiggerNumber\obj\Debug\BiggerNumber.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\ExcellentGrade\BiggerNumber\obj\Debug\BiggerNumber.pdb

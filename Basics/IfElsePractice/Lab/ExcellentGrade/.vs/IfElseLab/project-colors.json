@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "1cb6a7b3-e68f-440e-922e-861d95c64827": {
+      "ProjectGuid": "1cb6a7b3-e68f-440e-922e-861d95c64827",
+      "DisplayName": "ExcellentGrade",
+      "ColorIndex": 0
+    },
+    "36fec18d-1d91-446c-a73f-d9046eae6738": {
+      "ProjectGuid": "36fec18d-1d91-446c-a73f-d9046eae6738",
+      "DisplayName": "BiggerNumber",
+      "ColorIndex": 1
+    },
+    "c94ac29b-f91f-4c7b-8291-14e2569dd388": {
+      "ProjectGuid": "c94ac29b-f91f-4c7b-8291-14e2569dd388",
+      "DisplayName": "OddOrEven",
+      "ColorIndex": 2
+    },
+    "19bca666-98cb-4315-a159-4d8f483a92c8": {
+      "ProjectGuid": "19bca666-98cb-4315-a159-4d8f483a92c8",
+      "DisplayName": "GuessThePassword",
+      "ColorIndex": 3
+    },
+    "33dd5ad3-7f9c-43da-bc08-c7729385593b": {
+      "ProjectGuid": "33dd5ad3-7f9c-43da-bc08-c7729385593b",
+      "DisplayName": "NumberBetween100And200",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}
