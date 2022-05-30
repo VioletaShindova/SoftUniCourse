@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "3b4e7f0d-6293-41bb-b8bb-b32729960b94": {
+      "ProjectGuid": "3b4e7f0d-6293-41bb-b8bb-b32729960b94",
+      "DisplayName": "Numbers from 1 to 100",
+      "ColorIndex": 0
+    },
+    "06a3e727-ab42-4e31-8d12-a2dd27c313d4": {
+      "ProjectGuid": "06a3e727-ab42-4e31-8d12-a2dd27c313d4",
+      "DisplayName": "Numbers N -1",
+      "ColorIndex": 1
+    },
+    "7850b1ec-34cd-48a7-bf12-0d8e5c0e7a49": {
+      "ProjectGuid": "7850b1ec-34cd-48a7-bf12-0d8e5c0e7a49",
+      "DisplayName": "Numbers 1 - N with Step 3",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}

@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers N -1\bin\Debug\Numbers N -1.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers N -1\bin\Debug\Numbers N -1.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers N -1\bin\Debug\Numbers N -1.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers N -1\obj\Debug\Numbers N -1.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers N -1\obj\Debug\Numbers N -1.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers N -1\obj\Debug\Numbers N -1.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers N -1\obj\Debug\Numbers N -1.pdb
