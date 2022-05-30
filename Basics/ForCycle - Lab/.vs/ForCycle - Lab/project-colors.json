@@ -35,7 +35,22 @@
       "ProjectGuid": "96a9311d-ff34-415d-b2ab-f120062a9195",
       "DisplayName": "Sum Numbers",
       "ColorIndex": 6
+    },
+    "9076358d-6064-4ff0-bb78-ae45a3f05671": {
+      "ProjectGuid": "9076358d-6064-4ff0-bb78-ae45a3f05671",
+      "DisplayName": "Number sequence",
+      "ColorIndex": 7
+    },
+    "a23f089d-3880-4445-9e55-6baff9d4e30e": {
+      "ProjectGuid": "a23f089d-3880-4445-9e55-6baff9d4e30e",
+      "DisplayName": "Left and Right Sum",
+      "ColorIndex": 8
+    },
+    "be8a4d66-fe98-464e-a909-1e5c2e0e9fcf": {
+      "ProjectGuid": "be8a4d66-fe98-464e-a909-1e5c2e0e9fcf",
+      "DisplayName": "Odd Even Sum",
+      "ColorIndex": 9
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 10
 }

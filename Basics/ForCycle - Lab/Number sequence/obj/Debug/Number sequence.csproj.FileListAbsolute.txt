@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Number sequence\bin\Debug\Number sequence.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Number sequence\bin\Debug\Number sequence.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Number sequence\bin\Debug\Number sequence.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Number sequence\obj\Debug\Number sequence.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Number sequence\obj\Debug\Number sequence.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Number sequence\obj\Debug\Number sequence.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Number sequence\obj\Debug\Number sequence.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Number sequence\obj\Debug\Number sequence.pdb
