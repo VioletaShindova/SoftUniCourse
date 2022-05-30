@@ -15,7 +15,27 @@
       "ProjectGuid": "7850b1ec-34cd-48a7-bf12-0d8e5c0e7a49",
       "DisplayName": "Numbers 1 - N with Step 3",
       "ColorIndex": 2
+    },
+    "337c1b45-2d5f-4091-bd3e-d39fe15a7cf8": {
+      "ProjectGuid": "337c1b45-2d5f-4091-bd3e-d39fe15a7cf8",
+      "DisplayName": "Even Powers of 2",
+      "ColorIndex": 3
+    },
+    "913f0620-e56b-449a-8e52-8e26315eb387": {
+      "ProjectGuid": "913f0620-e56b-449a-8e52-8e26315eb387",
+      "DisplayName": "Character Sequence",
+      "ColorIndex": 4
+    },
+    "dcaaef14-941f-40f9-ad3b-397ce5577819": {
+      "ProjectGuid": "dcaaef14-941f-40f9-ad3b-397ce5577819",
+      "DisplayName": "Vowels Sum",
+      "ColorIndex": 5
+    },
+    "96a9311d-ff34-415d-b2ab-f120062a9195": {
+      "ProjectGuid": "96a9311d-ff34-415d-b2ab-f120062a9195",
+      "DisplayName": "Sum Numbers",
+      "ColorIndex": 6
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 7
 }
