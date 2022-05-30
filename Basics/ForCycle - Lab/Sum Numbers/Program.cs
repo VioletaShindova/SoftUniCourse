@@ -10,7 +10,16 @@ namespace Sum_Numbers
     {
         static void Main(string[] args)
         {
+            int n = int.Parse(Console.ReadLine());
+            int numbers;
+            int sum = 0;
 
+            for(int i = 1; i <= n; i++)
+            {
+                numbers = int.Parse(Console.ReadLine());
+                sum = sum + numbers;
+            }
+            Console.WriteLine(sum);
         }
     }
 }
