@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers 1 - N with Step 3\bin\Debug\Numbers 1 - N with Step 3.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers 1 - N with Step 3\bin\Debug\Numbers 1 - N with Step 3.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers 1 - N with Step 3\bin\Debug\Numbers 1 - N with Step 3.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers 1 - N with Step 3\obj\Debug\Numbers 1 - N with Step 3.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers 1 - N with Step 3\obj\Debug\Numbers 1 - N with Step 3.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers 1 - N with Step 3\obj\Debug\Numbers 1 - N with Step 3.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\IfElsePractice\Conditional Statements - Exercise\ForCycle - Lab\Numbers 1 - N with Step 3\obj\Debug\Numbers 1 - N with Step 3.pdb
