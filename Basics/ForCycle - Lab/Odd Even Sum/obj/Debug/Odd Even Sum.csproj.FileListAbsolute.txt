@@ -5,3 +5,4 @@ C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle
 C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Odd Even Sum\bin\Debug\Odd Even Sum.pdb
 C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Odd Even Sum\obj\Debug\Odd Even Sum.exe
 C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Odd Even Sum\obj\Debug\Odd Even Sum.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Odd Even Sum\obj\Debug\Odd Even Sum.csproj.AssemblyReference.cache
