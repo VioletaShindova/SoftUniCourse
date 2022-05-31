@@ -16,9 +16,10 @@ namespace Odd_Even_Sum
             int sumEven = 0;
             int sumOdd = 0; 
 
-            for(int i = 1; i <= n; i++)
+            for(int i = 0; i < n; i++)
             {
                 int number = int.Parse(Console.ReadLine());
+                array[i] = number;
 
                 if (i % 2 == 0)
                 {
@@ -30,12 +31,12 @@ namespace Odd_Even_Sum
                 }
             }
 
-            if(sumEven == sumOdd)
+            if (sumEven == sumOdd)
             {
                 Console.WriteLine("Yes");
                 Console.WriteLine("Sum = " + sumEven);
             }
-            else if(sumEven > sumOdd)
+            else if (sumEven > sumOdd)
             {
                 Console.WriteLine("No");
                 Console.WriteLine("Diff = " + (sumEven - sumOdd));
