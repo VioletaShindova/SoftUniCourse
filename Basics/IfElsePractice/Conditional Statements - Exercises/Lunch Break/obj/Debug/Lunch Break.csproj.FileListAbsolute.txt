@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Lunch Break\obj\Debug\Lunch Break.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Lunch Break\obj\Debug\Lunch Break.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Lunch Break\obj\Debug\Lunch Break.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Lunch Break\bin\Debug\Lunch Break.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Lunch Break\bin\Debug\Lunch Break.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Lunch Break\bin\Debug\Lunch Break.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Lunch Break\obj\Debug\Lunch Break.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Lunch Break\obj\Debug\Lunch Break.pdb

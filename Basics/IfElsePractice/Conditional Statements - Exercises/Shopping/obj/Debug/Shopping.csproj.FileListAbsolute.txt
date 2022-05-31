@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Shopping\bin\Debug\Shopping.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Shopping\bin\Debug\Shopping.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Shopping\bin\Debug\Shopping.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Shopping\obj\Debug\Shopping.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Shopping\obj\Debug\Shopping.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Shopping\obj\Debug\Shopping.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Shopping\obj\Debug\Shopping.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements - Exercises\Shopping\obj\Debug\Shopping.pdb
