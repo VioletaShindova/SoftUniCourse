@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "e6cec286-1e7c-4ae1-8fa6-61f865b6d37b": {
+      "ProjectGuid": "e6cec286-1e7c-4ae1-8fa6-61f865b6d37b",
+      "DisplayName": "01. Day of Week",
+      "ColorIndex": 0
+    },
+    "c9eb44cc-402d-42ec-84b8-a36782832420": {
+      "ProjectGuid": "c9eb44cc-402d-42ec-84b8-a36782832420",
+      "DisplayName": "2WeekendOrWorkingDay",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

@@ -35,7 +35,12 @@
       "ProjectGuid": "f7fe431d-898c-41da-af0a-269e3ee03b57",
       "DisplayName": "Shopping",
       "ColorIndex": 6
+    },
+    "834892b7-e09b-4020-ad4e-3c312034dcc6": {
+      "ProjectGuid": "834892b7-e09b-4020-ad4e-3c312034dcc6",
+      "DisplayName": "Lunch Break",
+      "ColorIndex": 7
     }
   },
-  "NextColorIndex": 7
+  "NextColorIndex": 8
 }

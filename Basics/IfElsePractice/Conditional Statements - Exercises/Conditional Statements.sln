@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "World Swimming Record", "Wo
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Shopping", "Shopping\Shopping.csproj", "{F7FE431D-898C-41DA-AF0A-269E3EE03B57}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Lunch Break", "Lunch Break\Lunch Break.csproj", "{834892B7-E09B-4020-AD4E-3C312034DCC6}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -51,6 +53,10 @@ Global
 		{F7FE431D-898C-41DA-AF0A-269E3EE03B57}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{F7FE431D-898C-41DA-AF0A-269E3EE03B57}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{F7FE431D-898C-41DA-AF0A-269E3EE03B57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{834892B7-E09B-4020-AD4E-3C312034DCC6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{834892B7-E09B-4020-AD4E-3C312034DCC6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{834892B7-E09B-4020-AD4E-3C312034DCC6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{834892B7-E09B-4020-AD4E-3C312034DCC6}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
