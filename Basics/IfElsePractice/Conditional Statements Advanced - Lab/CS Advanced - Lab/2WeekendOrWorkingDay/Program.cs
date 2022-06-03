@@ -10,6 +10,7 @@ namespace _2WeekendOrWorkingDay
     {
         static void Main(string[] args)
         {
+                
 
         }
     }
