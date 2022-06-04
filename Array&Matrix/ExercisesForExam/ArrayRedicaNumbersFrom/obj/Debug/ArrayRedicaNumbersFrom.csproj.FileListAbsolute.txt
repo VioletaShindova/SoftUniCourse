@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\ArrayRedicaNumbersFrom\bin\Debug\ArrayRedicaNumbersFrom.exe.config
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\ArrayRedicaNumbersFrom\bin\Debug\ArrayRedicaNumbersFrom.exe
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\ArrayRedicaNumbersFrom\bin\Debug\ArrayRedicaNumbersFrom.pdb
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\ArrayRedicaNumbersFrom\obj\Debug\ArrayRedicaNumbersFrom.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\ArrayRedicaNumbersFrom\obj\Debug\ArrayRedicaNumbersFrom.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\ArrayRedicaNumbersFrom\obj\Debug\ArrayRedicaNumbersFrom.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\ArrayRedicaNumbersFrom\obj\Debug\ArrayRedicaNumbersFrom.exe
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\ArrayRedicaNumbersFrom\obj\Debug\ArrayRedicaNumbersFrom.pdb

@@ -1,0 +1,21 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f43074d0-70d6-4334-a930-307b3caf4451": {
+      "ProjectGuid": "f43074d0-70d6-4334-a930-307b3caf4451",
+      "DisplayName": "ArrayRedicaNumbersFrom",
+      "ColorIndex": 0
+    },
+    "cb42d87c-d6f5-4d30-9f35-889b94c498d0": {
+      "ProjectGuid": "cb42d87c-d6f5-4d30-9f35-889b94c498d0",
+      "DisplayName": "Variant10",
+      "ColorIndex": 1
+    },
+    "8d5aea98-120a-497f-a7be-0590a9280eda": {
+      "ProjectGuid": "8d5aea98-120a-497f-a7be-0590a9280eda",
+      "DisplayName": "Variant2SingleAndMatrixArray",
+      "ColorIndex": 2
+    }
+  },
+  "NextColorIndex": 3
+}
