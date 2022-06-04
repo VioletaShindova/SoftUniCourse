@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\Variant10\bin\Debug\Variant10.exe.config
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\Variant10\bin\Debug\Variant10.exe
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\Variant10\bin\Debug\Variant10.pdb
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\Variant10\obj\Debug\Variant10.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\Variant10\obj\Debug\Variant10.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\Variant10\obj\Debug\Variant10.exe
+C:\Users\viole\Documents\SoftUni\Basics\Arrays\Variant10\obj\Debug\Variant10.pdb
