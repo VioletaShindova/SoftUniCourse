@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Personal Titles", "04. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Small Shop", "05. Small Shop\05. Small Shop.csproj", "{3284454E-BEDB-497C-A377-CB1D388797D3}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Number in Range", "06. Number in Range\06. Number in Range.csproj", "{27CADD2B-43DD-43FB-B0F7-841DF0A8C45E}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{3284454E-BEDB-497C-A377-CB1D388797D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{3284454E-BEDB-497C-A377-CB1D388797D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{3284454E-BEDB-497C-A377-CB1D388797D3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{27CADD2B-43DD-43FB-B0F7-841DF0A8C45E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{27CADD2B-43DD-43FB-B0F7-841DF0A8C45E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{27CADD2B-43DD-43FB-B0F7-841DF0A8C45E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{27CADD2B-43DD-43FB-B0F7-841DF0A8C45E}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
