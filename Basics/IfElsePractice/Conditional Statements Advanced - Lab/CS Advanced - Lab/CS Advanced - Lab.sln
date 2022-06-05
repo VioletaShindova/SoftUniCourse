@@ -11,6 +11,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Animal Type", "03. Anim
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Personal Titles", "04. Personal Titles\04. Personal Titles.csproj", "{80B42CC5-A92B-4977-B55D-BDE87CB3354D}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Small Shop", "05. Small Shop\05. Small Shop.csproj", "{3284454E-BEDB-497C-A377-CB1D388797D3}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{80B42CC5-A92B-4977-B55D-BDE87CB3354D}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{80B42CC5-A92B-4977-B55D-BDE87CB3354D}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{80B42CC5-A92B-4977-B55D-BDE87CB3354D}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3284454E-BEDB-497C-A377-CB1D388797D3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3284454E-BEDB-497C-A377-CB1D388797D3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3284454E-BEDB-497C-A377-CB1D388797D3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3284454E-BEDB-497C-A377-CB1D388797D3}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

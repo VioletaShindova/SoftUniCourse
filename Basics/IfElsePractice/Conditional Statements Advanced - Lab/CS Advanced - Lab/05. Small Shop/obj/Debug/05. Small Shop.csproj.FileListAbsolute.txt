@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\05. Small Shop\bin\Debug\_05.Small_Shop.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\05. Small Shop\bin\Debug\_05.Small_Shop.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\05. Small Shop\bin\Debug\_05.Small_Shop.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\05. Small Shop\obj\Debug\05. Small Shop.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\05. Small Shop\obj\Debug\05. Small Shop.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\05. Small Shop\obj\Debug\05. Small Shop.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\05. Small Shop\obj\Debug\_05.Small_Shop.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\05. Small Shop\obj\Debug\_05.Small_Shop.pdb
