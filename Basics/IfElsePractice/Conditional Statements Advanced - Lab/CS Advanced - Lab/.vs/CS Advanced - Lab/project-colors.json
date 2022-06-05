@@ -10,7 +10,12 @@
       "ProjectGuid": "c9eb44cc-402d-42ec-84b8-a36782832420",
       "DisplayName": "2WeekendOrWorkingDay",
       "ColorIndex": 1
+    },
+    "f4880e5e-6a41-4bd8-b5cc-1a3884e5024a": {
+      "ProjectGuid": "f4880e5e-6a41-4bd8-b5cc-1a3884e5024a",
+      "DisplayName": "03. Animal Type",
+      "ColorIndex": 2
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 3
 }
