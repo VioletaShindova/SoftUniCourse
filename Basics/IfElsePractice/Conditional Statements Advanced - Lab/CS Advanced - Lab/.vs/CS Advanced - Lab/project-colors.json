@@ -15,7 +15,12 @@
       "ProjectGuid": "f4880e5e-6a41-4bd8-b5cc-1a3884e5024a",
       "DisplayName": "03. Animal Type",
       "ColorIndex": 2
+    },
+    "80b42cc5-a92b-4977-b55d-bde87cb3354d": {
+      "ProjectGuid": "80b42cc5-a92b-4977-b55d-bde87cb3354d",
+      "DisplayName": "04. Personal Titles",
+      "ColorIndex": 3
     }
   },
-  "NextColorIndex": 3
+  "NextColorIndex": 4
 }

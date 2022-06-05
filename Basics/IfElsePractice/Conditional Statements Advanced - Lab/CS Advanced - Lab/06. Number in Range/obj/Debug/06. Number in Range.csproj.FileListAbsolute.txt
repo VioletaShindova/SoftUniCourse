@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\06. Number in Range\bin\Debug\_06.Number_in_Range.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\06. Number in Range\bin\Debug\_06.Number_in_Range.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\06. Number in Range\bin\Debug\_06.Number_in_Range.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\06. Number in Range\obj\Debug\06. Number in Range.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\06. Number in Range\obj\Debug\06. Number in Range.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\06. Number in Range\obj\Debug\_06.Number_in_Range.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\06. Number in Range\obj\Debug\_06.Number_in_Range.pdb
