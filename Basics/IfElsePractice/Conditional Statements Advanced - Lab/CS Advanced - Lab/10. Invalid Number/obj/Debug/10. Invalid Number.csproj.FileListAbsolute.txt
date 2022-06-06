@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\10. Invalid Number\bin\Debug\_10.Invalid_Number.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\10. Invalid Number\bin\Debug\_10.Invalid_Number.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\10. Invalid Number\bin\Debug\_10.Invalid_Number.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\10. Invalid Number\obj\Debug\10. Invalid Number.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\10. Invalid Number\obj\Debug\10. Invalid Number.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\10. Invalid Number\obj\Debug\10. Invalid Number.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\10. Invalid Number\obj\Debug\_10.Invalid_Number.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Lab\CS Advanced - Lab\10. Invalid Number\obj\Debug\_10.Invalid_Number.pdb
