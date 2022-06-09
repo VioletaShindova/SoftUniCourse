@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Sum Numbers\bin\Debug\Sum Numbers.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Sum Numbers\bin\Debug\Sum Numbers.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Sum Numbers\bin\Debug\Sum Numbers.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Sum Numbers\obj\Debug\Sum Numbers.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Sum Numbers\obj\Debug\Sum Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Sum Numbers\obj\Debug\Sum Numbers.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Sum Numbers\obj\Debug\Sum Numbers.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Sum Numbers\obj\Debug\Sum Numbers.pdb

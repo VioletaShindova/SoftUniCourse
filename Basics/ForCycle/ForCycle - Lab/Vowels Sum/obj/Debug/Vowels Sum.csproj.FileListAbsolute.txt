@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Vowels Sum\bin\Debug\Vowels Sum.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Vowels Sum\bin\Debug\Vowels Sum.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Vowels Sum\bin\Debug\Vowels Sum.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Vowels Sum\obj\Debug\Vowels Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Vowels Sum\obj\Debug\Vowels Sum.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Vowels Sum\obj\Debug\Vowels Sum.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle - Lab\Vowels Sum\obj\Debug\Vowels Sum.pdb
