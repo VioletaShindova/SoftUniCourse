@@ -10,22 +10,24 @@ namespace _02.Half_Sum_Element
     {
         static void Main(string[] args)
         {
-            int numberOfNumbers = int.Parse(Console.ReadLine());
+            int numbers = int.Parse(Console.ReadLine());
 
             int sum = 0;
             int maxValue = int.MinValue;
 
-            for (int i = 1; i<=numberOfNumbers; i++)
+            for (int i = 1; i <= numbers; i++)
             {
                 int num = int.Parse(Console.ReadLine());
                 sum = sum + num;
 
-                if (num>maxValue)
+                if (num > maxValue)
                 {
                     maxValue = num;
                 }
             }
+
             int sumWithoutMaxNumber = sum - maxValue;
+
             if (maxValue == sumWithoutMaxNumber)
             {
                 Console.WriteLine("Yes");
@@ -33,7 +35,9 @@ namespace _02.Half_Sum_Element
             }
             else
             {
-                int diff = 
+                int diff = Math.Abs(maxValue - sumWithoutMaxNumber);
+                Console.WriteLine("No");
+                Console.WriteLine("Diff = " + diff);
             }
         }
     }
