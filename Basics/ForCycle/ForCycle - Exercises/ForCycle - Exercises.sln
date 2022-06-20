@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "1.Nums End In7", "1.Nums En
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Half Sum Element", "02. Half Sum Element\02. Half Sum Element.csproj", "{A8096F53-6F8E-4436-800F-06B227F4D3CD}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Histogram", "03. Histogram\03. Histogram.csproj", "{C490682B-84DB-43C9-A5C0-63ECFFD0A5D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Clever Lily", "04. Clever Lily\04. Clever Lily.csproj", "{F705E20C-1FD3-44E3-8EE9-E0515EC8E745}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{A8096F53-6F8E-4436-800F-06B227F4D3CD}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{A8096F53-6F8E-4436-800F-06B227F4D3CD}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{A8096F53-6F8E-4436-800F-06B227F4D3CD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C490682B-84DB-43C9-A5C0-63ECFFD0A5D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C490682B-84DB-43C9-A5C0-63ECFFD0A5D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C490682B-84DB-43C9-A5C0-63ECFFD0A5D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C490682B-84DB-43C9-A5C0-63ECFFD0A5D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F705E20C-1FD3-44E3-8EE9-E0515EC8E745}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F705E20C-1FD3-44E3-8EE9-E0515EC8E745}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F705E20C-1FD3-44E3-8EE9-E0515EC8E745}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F705E20C-1FD3-44E3-8EE9-E0515EC8E745}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
