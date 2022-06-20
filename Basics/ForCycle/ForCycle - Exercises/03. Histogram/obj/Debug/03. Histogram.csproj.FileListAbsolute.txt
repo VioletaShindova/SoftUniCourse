@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\03. Histogram\bin\Debug\_03.Histogram.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\03. Histogram\bin\Debug\_03.Histogram.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\03. Histogram\bin\Debug\_03.Histogram.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\03. Histogram\obj\Debug\03. Histogram.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\03. Histogram\obj\Debug\03. Histogram.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\03. Histogram\obj\Debug\03. Histogram.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\03. Histogram\obj\Debug\_03.Histogram.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\03. Histogram\obj\Debug\_03.Histogram.pdb
