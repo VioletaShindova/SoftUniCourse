@@ -52,6 +52,7 @@ namespace _03.Histogram
                 }
             }
 
+
             p1 = ((double)counterLess200Nums / 20 * 100);
             p2 = ((double)counterBetween200And399 / 20 * 100 * 1.0);
             p3 = (((double)counterBetween400And599 / 20) * 100);

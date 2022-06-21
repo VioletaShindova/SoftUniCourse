@@ -10,7 +10,22 @@
       "ProjectGuid": "a8096f53-6f8e-4436-800f-06b227f4d3cd",
       "DisplayName": "02. Half Sum Element",
       "ColorIndex": 1
+    },
+    "c490682b-84db-43c9-a5c0-63ecffd0a5d9": {
+      "ProjectGuid": "c490682b-84db-43c9-a5c0-63ecffd0a5d9",
+      "DisplayName": "03. Histogram",
+      "ColorIndex": 2
+    },
+    "f705e20c-1fd3-44e3-8ee9-e0515ec8e745": {
+      "ProjectGuid": "f705e20c-1fd3-44e3-8ee9-e0515ec8e745",
+      "DisplayName": "04. Clever Lily",
+      "ColorIndex": 3
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
     }
   },
-  "NextColorIndex": 2
+  "NextColorIndex": 4
 }
