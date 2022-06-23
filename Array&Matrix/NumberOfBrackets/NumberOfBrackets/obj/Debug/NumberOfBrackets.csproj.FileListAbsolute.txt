@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\Visual Studio\Array\NumberOfBrackets\NumberOfBrackets\bin\Debug\NumberOfBrackets.exe.config
+C:\Users\viole\Documents\My Files\Visual Studio\Array\NumberOfBrackets\NumberOfBrackets\bin\Debug\NumberOfBrackets.exe
+C:\Users\viole\Documents\My Files\Visual Studio\Array\NumberOfBrackets\NumberOfBrackets\bin\Debug\NumberOfBrackets.pdb
+C:\Users\viole\Documents\My Files\Visual Studio\Array\NumberOfBrackets\NumberOfBrackets\obj\Debug\NumberOfBrackets.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\Visual Studio\Array\NumberOfBrackets\NumberOfBrackets\obj\Debug\NumberOfBrackets.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\Visual Studio\Array\NumberOfBrackets\NumberOfBrackets\obj\Debug\NumberOfBrackets.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\Visual Studio\Array\NumberOfBrackets\NumberOfBrackets\obj\Debug\NumberOfBrackets.exe
+C:\Users\viole\Documents\My Files\Visual Studio\Array\NumberOfBrackets\NumberOfBrackets\obj\Debug\NumberOfBrackets.pdb
