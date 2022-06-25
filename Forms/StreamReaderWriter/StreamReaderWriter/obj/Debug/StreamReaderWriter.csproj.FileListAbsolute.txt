@@ -1,0 +1,11 @@
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\bin\Debug\StreamReaderWriter.exe.config
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\bin\Debug\StreamReaderWriter.exe
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\bin\Debug\StreamReaderWriter.pdb
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.Form1.resources
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.Properties.Resources.resources
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.csproj.GenerateResource.cache
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.exe
+C:\Users\viole\Documents\My Files\Forms\StreamReaderWriter\StreamReaderWriter\obj\Debug\StreamReaderWriter.pdb
