@@ -53,11 +53,11 @@ namespace _03.Histogram
             }
 
 
-            p1 = ((double)counterLess200Nums / 20 * 100);
-            p2 = ((double)counterBetween200And399 / 20 * 100 * 1.0);
-            p3 = (((double)counterBetween400And599 / 20) * 100);
-            p4 = (((double)counterBetween600And799 / 20) * 100);
-            p5 = (((double)countet800Plus / 20) * 100);
+            p1 = ((double)counterLess200Nums / n * 100);
+            p2 = ((double)counterBetween200And399 / n * 100 * 1.0);
+            p3 = (((double)counterBetween400And599 / n) * 100);
+            p4 = (((double)counterBetween600And799 / n) * 100);
+            p5 = (((double)countet800Plus / n) * 100);
 
             //double sumPercentages = p1 + p2 + p3 + p4+ p5;
             //ouble percentagep1 = sumPercentages - p2 - p3 - p4 - p5;
