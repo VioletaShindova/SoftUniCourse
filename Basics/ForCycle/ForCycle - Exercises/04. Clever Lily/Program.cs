@@ -17,24 +17,30 @@ namespace _04.Clever_Lily
             int counterToys = 0;
             int counterYearsLillyGotMoney = 0;
             double moneyForBdays = 0;
+            double moneySaved = 0;
 
-            if (lillyAge <= 77 && lillyAge >= 1)
+            for (int i = 1; i <= lillyAge; i++)
             {
-                for (int i = 1; i <= 77; i++)
+                if (i % 2 != 0)
                 {
-                    if (i % 2 != 0)
-                    {
-                        counterToys++;
-                    }
-                    else if (i % 2 == 0)
-                    {
-                        counterYearsLillyGotMoney++;
-                        moneyForBdays = moneyForBdays + 10.00;
-                    }
+                    counterToys++;
+                }
+                else if (i % 2 == 0)
+                {
+                    counterYearsLillyGotMoney++;
+                    moneyForBdays = moneyForBdays + 10.00;
+                    moneySaved = moneyForBdays;
                 }
             }
 
-            double allMoney = ((counterToys * singleToyPrice) + moneyForBdays) - counterYearsLillyGotMoney;
+            //double moneySaved = counterYearsLillyGotMoney * 
+            //double allMoney = ((counterToys * singleToyPrice) + moneyForBdays) - counterYearsLillyGotMoney;
+            
+            moneySaved += moneyForBdays;
+            double moneyToys = counterToys * singleToyPrice;
+            double takenMoney = counterYearsLillyGotMoney * 1;
+
+            double allMoney = moneySaved + moneyToys - takenMoney;
 
             if (washingMacninePrice > allMoney)
             {
