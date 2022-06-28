@@ -5,3 +5,4 @@ C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle
 C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\04. Clever Lily\obj\Debug\04. Clever Lily.csproj.CoreCompileInputs.cache
 C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\04. Clever Lily\obj\Debug\_04.Clever_Lily.exe
 C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\04. Clever Lily\obj\Debug\_04.Clever_Lily.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\04. Clever Lily\obj\Debug\04. Clever Lily.csproj.AssemblyReference.cache
