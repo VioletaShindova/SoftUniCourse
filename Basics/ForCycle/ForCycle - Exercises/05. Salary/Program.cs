@@ -10,6 +10,7 @@ namespace _05.Salary
     {
         static void Main(string[] args)
         {
+            //expected code
         }
     }
 }
