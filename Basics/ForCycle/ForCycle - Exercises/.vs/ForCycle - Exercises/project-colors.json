@@ -30,7 +30,12 @@
       "ProjectGuid": "8c11f5df-e978-4370-a638-1a6d0cd9a326",
       "DisplayName": "05. Salary",
       "ColorIndex": 4
+    },
+    "490075c3-ac13-415f-a303-7fa082238334": {
+      "ProjectGuid": "490075c3-ac13-415f-a303-7fa082238334",
+      "DisplayName": "06. Oscars",
+      "ColorIndex": 5
     }
   },
-  "NextColorIndex": 5
+  "NextColorIndex": 6
 }

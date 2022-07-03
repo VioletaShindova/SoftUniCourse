@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\05. Salary\bin\Debug\_05.Salary.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\05. Salary\bin\Debug\_05.Salary.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\05. Salary\bin\Debug\_05.Salary.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\05. Salary\obj\Debug\05. Salary.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\05. Salary\obj\Debug\05. Salary.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\05. Salary\obj\Debug\05. Salary.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\05. Salary\obj\Debug\_05.Salary.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\ForCycle\ForCycle - Exercises\05. Salary\obj\Debug\_05.Salary.pdb
