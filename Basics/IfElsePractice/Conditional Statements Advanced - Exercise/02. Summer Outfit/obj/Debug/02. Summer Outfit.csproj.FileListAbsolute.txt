@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\_02.Summer_Outfit.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\_02.Summer_Outfit.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\02. Summer Outfit\bin\Debug\_02.Summer_Outfit.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\02. Summer Outfit.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\02. Summer Outfit.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\02. Summer Outfit.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\_02.Summer_Outfit.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\02. Summer Outfit\obj\Debug\_02.Summer_Outfit.pdb

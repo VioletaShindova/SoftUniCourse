@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\_01.Cinema.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\_01.Cinema.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\01. Cinema\bin\Debug\_01.Cinema.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\01. Cinema.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\01. Cinema.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\01. Cinema.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\_01.Cinema.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Basics\IfElsePractice\Conditional Statements Advanced - Exercise\01. Cinema\obj\Debug\_01.Cinema.pdb
