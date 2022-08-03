@@ -1,0 +1,26 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "f03c5afe-286e-492f-8af5-9d9e848830ac": {
+      "ProjectGuid": "f03c5afe-286e-492f-8af5-9d9e848830ac",
+      "DisplayName": "01. Cinema",
+      "ColorIndex": 0
+    },
+    "c7b760f0-0e92-4295-8fa7-2d815a2d1c72": {
+      "ProjectGuid": "c7b760f0-0e92-4295-8fa7-2d815a2d1c72",
+      "DisplayName": "02. Summer Outfit",
+      "ColorIndex": 1
+    },
+    "c6609475-bc23-4a1e-ab2b-c04144a17099": {
+      "ProjectGuid": "c6609475-bc23-4a1e-ab2b-c04144a17099",
+      "DisplayName": "03. New House",
+      "ColorIndex": 2
+    },
+    "55445be4-f1a9-47ad-a56b-838a6112f708": {
+      "ProjectGuid": "55445be4-f1a9-47ad-a56b-838a6112f708",
+      "DisplayName": "04. Fishing Boat",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}
