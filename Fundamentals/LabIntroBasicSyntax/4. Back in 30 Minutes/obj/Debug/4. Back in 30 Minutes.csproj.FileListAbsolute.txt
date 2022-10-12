@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\4. Back in 30 Minutes\bin\Debug\_4.Back_in_30_Minutes.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\4. Back in 30 Minutes\bin\Debug\_4.Back_in_30_Minutes.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\4. Back in 30 Minutes\bin\Debug\_4.Back_in_30_Minutes.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\4. Back in 30 Minutes\obj\Debug\4. Back in 30 Minutes.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\4. Back in 30 Minutes\obj\Debug\4. Back in 30 Minutes.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\4. Back in 30 Minutes\obj\Debug\_4.Back_in_30_Minutes.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\4. Back in 30 Minutes\obj\Debug\_4.Back_in_30_Minutes.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\4. Back in 30 Minutes\obj\Debug\4. Back in 30 Minutes.csproj.AssemblyReference.cache

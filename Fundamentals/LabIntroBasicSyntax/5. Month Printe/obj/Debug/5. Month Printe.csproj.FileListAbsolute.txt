@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\5. Month Printe\bin\Debug\_5.Month_Printe.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\5. Month Printe\bin\Debug\_5.Month_Printe.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\5. Month Printe\bin\Debug\_5.Month_Printe.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\5. Month Printe\obj\Debug\5. Month Printe.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\5. Month Printe\obj\Debug\5. Month Printe.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\5. Month Printe\obj\Debug\_5.Month_Printe.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\5. Month Printe\obj\Debug\_5.Month_Printe.pdb

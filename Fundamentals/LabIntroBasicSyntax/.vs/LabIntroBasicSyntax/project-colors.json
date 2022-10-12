@@ -1,0 +1,16 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "5b1c4fdb-6eb8-4dc8-b3a8-ab4493fc6c2d": {
+      "ProjectGuid": "5b1c4fdb-6eb8-4dc8-b3a8-ab4493fc6c2d",
+      "DisplayName": "1. Student Information",
+      "ColorIndex": 0
+    },
+    "434abe9e-2fa2-46e9-9a91-3716678a27f0": {
+      "ProjectGuid": "434abe9e-2fa2-46e9-9a91-3716678a27f0",
+      "DisplayName": "2. Passed",
+      "ColorIndex": 1
+    }
+  },
+  "NextColorIndex": 2
+}

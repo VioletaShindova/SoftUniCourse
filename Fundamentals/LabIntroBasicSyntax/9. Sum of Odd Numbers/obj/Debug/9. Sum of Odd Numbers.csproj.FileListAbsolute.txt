@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\9. Sum of Odd Numbers\bin\Debug\_9.Sum_of_Odd_Numbers.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\9. Sum of Odd Numbers\bin\Debug\_9.Sum_of_Odd_Numbers.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\9. Sum of Odd Numbers\bin\Debug\_9.Sum_of_Odd_Numbers.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\9. Sum of Odd Numbers\obj\Debug\9. Sum of Odd Numbers.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\9. Sum of Odd Numbers\obj\Debug\9. Sum of Odd Numbers.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\9. Sum of Odd Numbers\obj\Debug\_9.Sum_of_Odd_Numbers.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\9. Sum of Odd Numbers\obj\Debug\_9.Sum_of_Odd_Numbers.pdb
