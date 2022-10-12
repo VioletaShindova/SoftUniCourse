@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\7. Theatre Promotions\bin\Debug\_7.Theatre_Promotions.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\7. Theatre Promotions\bin\Debug\_7.Theatre_Promotions.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\7. Theatre Promotions\bin\Debug\_7.Theatre_Promotions.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\7. Theatre Promotions\obj\Debug\7. Theatre Promotions.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\7. Theatre Promotions\obj\Debug\7. Theatre Promotions.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\7. Theatre Promotions\obj\Debug\7. Theatre Promotions.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\7. Theatre Promotions\obj\Debug\_7.Theatre_Promotions.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\7. Theatre Promotions\obj\Debug\_7.Theatre_Promotions.pdb

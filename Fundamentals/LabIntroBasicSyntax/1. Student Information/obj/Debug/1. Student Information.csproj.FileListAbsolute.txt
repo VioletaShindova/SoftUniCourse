@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\Visual Studio\Testing\LabIntroBasicSyntax\1. Student Information\bin\Debug\_1.Student_Information.exe.config
+C:\Users\viole\Documents\My Files\Visual Studio\Testing\LabIntroBasicSyntax\1. Student Information\bin\Debug\_1.Student_Information.exe
+C:\Users\viole\Documents\My Files\Visual Studio\Testing\LabIntroBasicSyntax\1. Student Information\bin\Debug\_1.Student_Information.pdb
+C:\Users\viole\Documents\My Files\Visual Studio\Testing\LabIntroBasicSyntax\1. Student Information\obj\Debug\1. Student Information.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\Visual Studio\Testing\LabIntroBasicSyntax\1. Student Information\obj\Debug\1. Student Information.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\Visual Studio\Testing\LabIntroBasicSyntax\1. Student Information\obj\Debug\1. Student Information.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\Visual Studio\Testing\LabIntroBasicSyntax\1. Student Information\obj\Debug\_1.Student_Information.exe
+C:\Users\viole\Documents\My Files\Visual Studio\Testing\LabIntroBasicSyntax\1. Student Information\obj\Debug\_1.Student_Information.pdb
