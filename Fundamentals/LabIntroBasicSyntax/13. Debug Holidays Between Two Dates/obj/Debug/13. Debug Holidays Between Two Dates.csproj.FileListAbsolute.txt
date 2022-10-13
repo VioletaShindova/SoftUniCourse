@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\13. Debug Holidays Between Two Dates\bin\Debug\_13.Debug_Holidays_Between_Two_Dates.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\13. Debug Holidays Between Two Dates\bin\Debug\_13.Debug_Holidays_Between_Two_Dates.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\13. Debug Holidays Between Two Dates\bin\Debug\_13.Debug_Holidays_Between_Two_Dates.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\13. Debug Holidays Between Two Dates\obj\Debug\13. Debug Holidays Between Two Dates.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\13. Debug Holidays Between Two Dates\obj\Debug\13. Debug Holidays Between Two Dates.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\13. Debug Holidays Between Two Dates\obj\Debug\_13.Debug_Holidays_Between_Two_Dates.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\LabIntroBasicSyntax\13. Debug Holidays Between Two Dates\obj\Debug\_13.Debug_Holidays_Between_Two_Dates.pdb

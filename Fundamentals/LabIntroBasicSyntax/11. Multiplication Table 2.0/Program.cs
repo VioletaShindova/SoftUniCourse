@@ -4,17 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace _10.Multiplication_Table
+namespace _11.Multiplication_Table_2._0
 {
     internal class Program
     {
         static void Main(string[] args)
         {
             uint number = uint.Parse(Console.ReadLine());
+            uint starterNumber = uint.Parse(Console.ReadLine());
 
-            for (int i = 1; i <= 10; i++)
+            for(uint i = starterNumber; i <= 10; i++)
             {
-                Console.WriteLine($"{number} X {i} = {(int)number * i}");
+                Console.WriteLine($"{number} X {i} = {number*i}");
             }
         }
     }
