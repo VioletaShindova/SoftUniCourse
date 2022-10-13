@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "ab7d5598-93e1-4981-a91f-3ba5d723b04e": {
+      "ProjectGuid": "ab7d5598-93e1-4981-a91f-3ba5d723b04e",
+      "DisplayName": "1. Ages",
+      "ColorIndex": 0
+    },
+    "602d8596-66e8-4941-8d45-3cb91693196f": {
+      "ProjectGuid": "602d8596-66e8-4941-8d45-3cb91693196f",
+      "DisplayName": "2. Divison",
+      "ColorIndex": 1
+    },
+    "63d915cd-6833-4944-99dc-f90af27d5c5e": {
+      "ProjectGuid": "63d915cd-6833-4944-99dc-f90af27d5c5e",
+      "DisplayName": "3. Vacation",
+      "ColorIndex": 2
+    },
+    "4235f5d1-258a-4658-b89f-159b4e03f4d0": {
+      "ProjectGuid": "4235f5d1-258a-4658-b89f-159b4e03f4d0",
+      "DisplayName": "4. Print and Sum",
+      "ColorIndex": 3
+    },
+    "cccad2e7-2db6-4671-a5b2-cce3db7c1b36": {
+      "ProjectGuid": "cccad2e7-2db6-4671-a5b2-cce3db7c1b36",
+      "DisplayName": "5. Login",
+      "ColorIndex": 4
+    }
+  },
+  "NextColorIndex": 5
+}

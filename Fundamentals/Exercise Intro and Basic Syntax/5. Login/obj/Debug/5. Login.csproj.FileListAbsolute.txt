@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\5. Login\bin\Debug\_5.Login.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\5. Login\bin\Debug\_5.Login.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\5. Login\bin\Debug\_5.Login.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\5. Login\obj\Debug\5. Login.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\5. Login\obj\Debug\5. Login.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\5. Login\obj\Debug\5. Login.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\5. Login\obj\Debug\_5.Login.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\5. Login\obj\Debug\_5.Login.pdb
