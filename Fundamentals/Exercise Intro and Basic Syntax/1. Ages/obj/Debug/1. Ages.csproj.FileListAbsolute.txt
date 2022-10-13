@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\_1.Ages.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\_1.Ages.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\bin\Debug\_1.Ages.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\1. Ages.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\1. Ages.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\1. Ages.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\_1.Ages.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\1. Ages\obj\Debug\_1.Ages.pdb

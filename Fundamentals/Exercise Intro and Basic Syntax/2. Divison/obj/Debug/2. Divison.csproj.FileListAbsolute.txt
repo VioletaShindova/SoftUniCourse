@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\2. Divison\bin\Debug\_2.Divison.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\2. Divison\bin\Debug\_2.Divison.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\2. Divison\bin\Debug\_2.Divison.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\2. Divison\obj\Debug\2. Divison.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\2. Divison\obj\Debug\2. Divison.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\2. Divison\obj\Debug\_2.Divison.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\2. Divison\obj\Debug\_2.Divison.pdb

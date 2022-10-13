@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\_4.Print_and_Sum.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\_4.Print_and_Sum.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\bin\Debug\_4.Print_and_Sum.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\4. Print and Sum.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\4. Print and Sum.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\4. Print and Sum.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\_4.Print_and_Sum.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Fundamentals\Exercise Intro and Basic Syntax\4. Print and Sum\obj\Debug\_4.Print_and_Sum.pdb
