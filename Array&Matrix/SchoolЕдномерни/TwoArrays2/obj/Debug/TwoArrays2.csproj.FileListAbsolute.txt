@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\Visual Studio\Array\Едномерни\Едномерен Масив\TwoArrays2\bin\Debug\TwoArrays2.exe.config
+C:\Users\viole\Documents\My Files\Visual Studio\Array\Едномерни\Едномерен Масив\TwoArrays2\bin\Debug\TwoArrays2.exe
+C:\Users\viole\Documents\My Files\Visual Studio\Array\Едномерни\Едномерен Масив\TwoArrays2\bin\Debug\TwoArrays2.pdb
+C:\Users\viole\Documents\My Files\Visual Studio\Array\Едномерни\Едномерен Масив\TwoArrays2\obj\Debug\TwoArrays2.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\Visual Studio\Array\Едномерни\Едномерен Масив\TwoArrays2\obj\Debug\TwoArrays2.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\Visual Studio\Array\Едномерни\Едномерен Масив\TwoArrays2\obj\Debug\TwoArrays2.exe
+C:\Users\viole\Documents\My Files\Visual Studio\Array\Едномерни\Едномерен Масив\TwoArrays2\obj\Debug\TwoArrays2.pdb
