@@ -1,0 +1,8 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\Едномерен Масив\MaxArrayElement\bin\Debug\MaxArrayElement.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\Едномерен Масив\MaxArrayElement\bin\Debug\MaxArrayElement.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\Едномерен Масив\MaxArrayElement\bin\Debug\MaxArrayElement.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\Едномерен Масив\MaxArrayElement\obj\Debug\MaxArrayElement.csproj.AssemblyReference.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\Едномерен Масив\MaxArrayElement\obj\Debug\MaxArrayElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\Едномерен Масив\MaxArrayElement\obj\Debug\MaxArrayElement.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\Едномерен Масив\MaxArrayElement\obj\Debug\MaxArrayElement.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\Едномерен Масив\MaxArrayElement\obj\Debug\MaxArrayElement.pdb

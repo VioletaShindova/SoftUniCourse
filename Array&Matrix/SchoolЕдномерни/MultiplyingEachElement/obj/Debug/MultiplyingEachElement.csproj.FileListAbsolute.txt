@@ -1,0 +1,7 @@
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\MultiplyingEachElement\bin\Debug\MultiplyingEachElement.exe.config
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\MultiplyingEachElement\bin\Debug\MultiplyingEachElement.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\MultiplyingEachElement\bin\Debug\MultiplyingEachElement.pdb
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\MultiplyingEachElement\obj\Debug\MultiplyingEachElement.csproj.SuggestedBindingRedirects.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\MultiplyingEachElement\obj\Debug\MultiplyingEachElement.csproj.CoreCompileInputs.cache
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\MultiplyingEachElement\obj\Debug\MultiplyingEachElement.exe
+C:\Users\viole\Documents\My Files\SofUniCourseRepo\SoftUniCourse\Array&Matrix\SchoolЕдномерни\MultiplyingEachElement\obj\Debug\MultiplyingEachElement.pdb
